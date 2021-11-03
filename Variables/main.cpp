@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
 
+    // Variables
     string name = "John";
     int age;
     age = 25;
