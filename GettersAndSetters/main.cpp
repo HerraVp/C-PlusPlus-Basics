@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Constructor Functions
+// Getters and Setters
 
 class Book {
 private:
