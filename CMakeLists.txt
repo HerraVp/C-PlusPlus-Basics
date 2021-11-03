@@ -4,4 +4,4 @@ project(C_PlusPlus_Basics)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(C_PlusPlus_Basics
-        ConstructorFunctions/main.cpp)
+       GettersAndSetters/main.cpp)
